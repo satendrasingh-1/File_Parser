@@ -1,0 +1,9 @@
+id,name,age,city,salary,department,is_active
+1,John Doe,25,New York,50000,Engineering,true
+2,Jane Smith,30,Los Angeles,60000,Marketing,true
+3,Bob Johnson,35,Chicago,55000,Sales,false
+4,Alice Brown,28,Boston,52000,Engineering,true
+5,Charlie Wilson,32,Seattle,58000,Product,true
+6,Diana Davis,29,Austin,54000,Design,false
+7,Edward Miller,31,Denver,56000,Engineering,true
+8,Fiona Garcia,27,Miami,51000,Marketing,true
